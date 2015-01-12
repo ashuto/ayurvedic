@@ -1,4 +1,4 @@
-Hello Java Webapp Runner
+ayurvedic
 ------------------------
 
 This is a template project for a Java webapp that runs on Tomcat and uses a Maven build to manage the Tomcat dependency.
